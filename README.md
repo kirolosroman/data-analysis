@@ -7,4 +7,5 @@ nashivlleHousing.sql
   you can see it from the following link
   https://public.tableau.com/app/profile/kirolos.romany/viz/CovidDashboard_16864988502720/Dashboard1
   
-## you can download the data sources from ourworldindata.org/covid-death
+## you can download the data sources from the following link
+ourworldindata.org/covid-death
